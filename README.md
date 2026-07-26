@@ -29,10 +29,10 @@ You'll be prompted to enter the number of colours (e.g. `16`). The compressed im
 | 2  | Binary colour reduction |
 
 ## Project Structure
-image_comp_kmeans/
+```image_comp_kmeans/
 ├── main # Full K-means compression script
 └── README.md
-
+```
 
 ## What This Demonstrates
 
